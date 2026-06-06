@@ -1,5 +1,3 @@
-## Proceso desarrollado durante la Unidad 1
-
 # Proceso desarrollado durante la Unidad 1
 
 Durante la primera unidad de la asignatura **Metodología de la Investigación en Computación**, se ejecutó un proceso de investigación documental y elaboración académica enfocado en el tema **Lógica Difusiva**, con el objetivo de desarrollar un capítulo de libro titulado:
